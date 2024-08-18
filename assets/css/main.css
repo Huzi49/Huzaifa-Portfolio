@@ -338,9 +338,9 @@ h1 {
   .creative__text--animation-3 span:nth-child(1) {
     display: inline-block;
     opacity: 1;
-    -webkit-text-stroke: 0; /* Remove text stroke */
-    color: var(--primary-color); /* Apply primary color directly */
-    animation: none; /* Disable any animations */
+    -webkit-text-stroke: 0; 
+/*     color: var(--primary-color);
+    animation: none;  */
   }
 }
 
