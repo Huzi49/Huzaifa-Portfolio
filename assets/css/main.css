@@ -339,8 +339,8 @@ h1 {
     display: inline-block;
     opacity: 1;
     -webkit-text-stroke: 0; 
-/*     color: var(--primary-color);
-    animation: none;  */
+    color: var(--primary-color);
+    animation: none;
   }
 }
 
