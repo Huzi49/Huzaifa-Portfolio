@@ -321,7 +321,7 @@ h1 {
   .creative__text--animation-1,
   .creative__text--animation-2,
   .creative__text--animation-3 {
-    font-size: 2em;
+    font-size: 19px;
     padding: 0 20px;
     display: block;
   }
@@ -339,8 +339,12 @@ h1 {
     display: inline-block;
     opacity: 1;
     -webkit-text-stroke: 0; 
-    color: var(--primary-color);
+    color: #01fe8700;
     animation: none;
+    font-size:19px;
+  }
+  h2 {
+    font-size:30px;
   }
 }
 
